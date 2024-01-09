@@ -1,0 +1,15 @@
+F:\phase3\daily examples\day3\assignment3\assignment3\bin\Debug\net6.0\assignment3.exe
+F:\phase3\daily examples\day3\assignment3\assignment3\bin\Debug\net6.0\assignment3.deps.json
+F:\phase3\daily examples\day3\assignment3\assignment3\bin\Debug\net6.0\assignment3.runtimeconfig.json
+F:\phase3\daily examples\day3\assignment3\assignment3\bin\Debug\net6.0\assignment3.dll
+F:\phase3\daily examples\day3\assignment3\assignment3\bin\Debug\net6.0\assignment3.pdb
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfoInputs.cache
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.AssemblyInfo.cs
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.csproj.CoreCompileInputs.cache
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.dll
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\refint\assignment3.dll
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.pdb
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.genruntimeconfig.cache
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\ref\assignment3.dll
+F:\phase3\daily examples\day3\assignment3\assignment3\obj\Debug\net6.0\assignment3.sourcelink.json
